@@ -18,7 +18,7 @@
 
 ### Bronnen
 - Mendeley, Zotero,...
-- Raadplegen: scholar.google.com, IEEE Explore,...
+- Raadplegen: scholar.google.com, IEEE Explore,... (https://bib.kuleuven.be/collecties-toegang-ontlenen/toegang-tot-e-bronnen/ebronnen-raadplegen/uitgeversplatformen-via-centrale-ku-leuven-login)
 
 ## Code
 - Gebruik version control systems zoals Git.
