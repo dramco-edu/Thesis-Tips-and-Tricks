@@ -24,3 +24,20 @@
 ## Code
 - Gebruik version control systems zoals Git.
 
+## Raadpleeg een "expert"
+Expertise binnen dramco:
+
+### LPWAN
+- Gilles Callebat
+- Guus Leenders
+
+### VLC & VLP
+- Kevin Verniers
+- Willem Raes
+
+### Acoustics
+- Bart Thoen
+- Bert Cox
+- Chesney Buyle
+
+...
