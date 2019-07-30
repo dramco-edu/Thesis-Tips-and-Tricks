@@ -44,3 +44,4 @@ Expertise binnen dramco:
 
 ### Machine Learning
 - Stijn Crul
+- Willem Raes
