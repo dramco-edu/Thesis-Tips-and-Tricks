@@ -45,3 +45,10 @@ Expertise binnen dramco:
 ### Machine Learning
 - Stijn Crul
 - Willem Raes
+
+### PCB design
+- Guus Leenders
+- Jarne Van Mulders
+
+### LaTex
+- Gilles Callebaut
