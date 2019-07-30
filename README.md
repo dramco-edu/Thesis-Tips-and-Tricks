@@ -42,4 +42,5 @@ Expertise binnen dramco:
 - Bert Cox
 - Chesney Buyle
 
-...
+### Machine Learning
+- Stijn Crul
