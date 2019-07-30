@@ -1,5 +1,26 @@
 # Tips and Tricks
 
+<!-- MarkdownTOC -->
+
+- [Planning](#planning)
+- [Scriptie](#scriptie)
+	- [Conventies](#conventies)
+	- [Taal](#taal)
+	- [LaTex tips](#latex-tips)
+	- [Bronnen](#bronnen)
+- [Code](#code)
+- [Raadpleeg een expert](#raadpleeg-een-expert)
+	- [LPWAN](#lpwan)
+	- [VLC & VLP](#vlc--vlp)
+	- [Acoustics](#acoustics)
+	- [Machine Learning](#machine-learning)
+	- [PCB design](#pcb-design)
+	- [LaTex](#latex)
+
+<!-- /MarkdownTOC -->
+
+
+
 ## Planning
 - Vraag tijdig feedback
 - Begin er op tijd aan. 2 weken werken in de vakantie aan je thesis = 10 weken gedurende het jaar + je kan bij opeenvolgende dagen meer werk verrichten dan verspreide dagen.
@@ -26,7 +47,7 @@
   * Git tutorial: https://www.atlassian.com/git/tutorials/what-is-version-control
   * Github tutorial: https://guides.github.com/activities/hello-world/
 
-## Raadpleeg een "expert"
+## Raadpleeg een expert
 Expertise binnen dramco:
 
 ### LPWAN
