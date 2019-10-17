@@ -30,6 +30,9 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+        
+        
+        <p class="view">{% include toc.html html=content h_max=3 %}</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -40,7 +43,7 @@
         {% endif %}
       </header>
       <section>
-      <div class="toc">{% include toc.html html=content h_max=3 %}</div>
+      
 
       {{ content }}
 
