@@ -1,3 +1,8 @@
+---
+title: Thesis Tips & Tricks
+toc: false
+---
+
 # Thesis Tips & Tricks
 
 Welkom op de Tips & Tricks voor masterproeven!
