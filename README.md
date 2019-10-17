@@ -9,7 +9,7 @@
 - Begin op tijd met te schrijven, begin in het eerste semester.
 
 ### Conventies
-- verwijzingen naar figuren, tabellen, secties,... worden met hoofdletter geschreven, e.g., Figuur 1.7 Sectie 2.3. Meer info: http://www.mit.edu/course/21/21.guide/capitals.htm
+- verwijzingen naar figuren, tabellen, secties,... worden met hoofdletter geschreven, e.g., Figuur 1.7 Sectie 2.3. Meer info: [http://www.mit.edu/course/21/21.guide/capitals.htm](http://www.mit.edu/course/21/21.guide/capitals.htm)
 
 ### Taal
 - Bestudeer de schrijfstijl in de vakliteratuur. Een aantal kenmerken zijn van academische stijl zijn:
@@ -18,12 +18,12 @@
 	- zakelijk: een werkstuk is geen roman. Al te bloemrijk of literari taalgebruik hoor hier niet in thuis.
 	- correct: zorg dat je tekst geen taal- of spelfouten bevat. Let ook op de juist vorm en spelling van werkwoorden.
 	- zorgvuldig: wees niet te snel tevreden met je formulering. Vermijd vage en lege woorden zoals zaken, dingen, het een en ander.  
-  https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/
-- Cijfers voluit: https://www.taaltelefoon.be/getallen-in-cijfers-of-letters
+  [https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/](https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/)
+- Cijfers voluit: [https://www.taaltelefoon.be/getallen-in-cijfers-of-letters](https://www.taaltelefoon.be/getallen-in-cijfers-of-letters)
 
 ### LaTex tips
-- Gebruik een glossary en acroniemen: https://www.overleaf.com/learn/latex/Glossaries
-- Info over IDEs en distributies: https://github.com/dramco-edu/LaTex
+- Gebruik een glossary en acroniemen: [https://www.overleaf.com/learn/latex/Glossaries](https://www.overleaf.com/learn/latex/Glossaries)
+- Info over IDEs en distributies: [https://github.com/dramco-edu/LaTex](https://github.com/dramco-edu/LaTex)
 
 ### Bronnen
 - LIMO libis: de online bibliotheek van de KU Leuven: http://limo.libis.be/index.html
