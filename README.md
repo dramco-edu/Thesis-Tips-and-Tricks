@@ -17,9 +17,8 @@
 	- onpersoonlijk: als schrijver blijf je in een wetenschappelijke tekst meestal anoniem. Gebruik dus liever geen ik of wij, tenzij je een eigen mening weergeeft.
 	- zakelijk: een werkstuk is geen roman. Al te bloemrijk of literari taalgebruik hoor hier niet in thuis.
 	- correct: zorg dat je tekst geen taal- of spelfouten bevat. Let ook op de juist vorm en spelling van werkwoorden.
-	- zorgvuldig: wees niet te snel tevreden met je formulering. Vermijd vage en lege woorden zoals zaken, dingen, het een en ander.
-  
-https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/
+	- zorgvuldig: wees niet te snel tevreden met je formulering. Vermijd vage en lege woorden zoals zaken, dingen, het een en ander.  
+  https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/
 - Cijfers voluit: https://www.taaltelefoon.be/getallen-in-cijfers-of-letters
 
 ### LaTex tips
@@ -30,7 +29,7 @@ https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/
 - LIMO libis: de online bibliotheek van de KU Leuven: http://limo.libis.be/index.html
 - Mendeley, Zotero,...
 - Raadplegen: scholar.google.com, IEEE Explore,... (https://bib.kuleuven.be/collecties-toegang-ontlenen/toegang-tot-e-bronnen/ebronnen-raadplegen/uitgeversplatformen-via-centrale-ku-leuven-login)
-- EZ-proxy is een proxy service vanuit de KU Leuven voor academische doeleinden. Het geeft toegang tot artiekels, journals, boeken, ... : https://admin.kuleuven.be/icts/english-site/proxy
+- EZ-proxy is een proxy service vanuit de KU Leuven voor academische doeleinden. Het geeft toegang tot artikels, journals, boeken, ... : https://admin.kuleuven.be/icts/english-site/proxy
 
 ## Code
 - Gebruik version control systems zoals Git.
