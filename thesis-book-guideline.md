@@ -7,6 +7,9 @@
 ---
 
 Dit document biedt een houvast voor studenten bij het structuren van de tekst voor de masterproef. De blueprint kan gebruikt worden bij heel wat eindwerken die worden uitgevoerd binnen de onderzoeksgroep Dramco. Natuurlijk is het de bedoeling dat studenten hiervan afwijken waar nodig. De concrete structuur van de tekst hangt af van het specifieke onderwerp, en natuurlijk ook van de creativiteit van de student. In de template wordt de tekst opgedeeld in 7 hoofdstukken. Variaties zijn mogelijk. Hoofdstuk 1 en hoofdstuk 7 nemen in vele gevallen telkens niet meer dan 3 pagina’s in beslag. Bij de overige hoofdstukken moet gestreefd worden naar een evenwichtige verdeling. Een kwalitatieve eindwerktekst focust op de bundeling van resultaten. Dit kan zeker binnen 60 pagina's.<sup name="a1">[1](#f1)<sup>
+  
+  
+- Begin op tijd met te schrijven, begin in het eerste semester.
 
 
 ## Hoofdstuk 1: Inleiding [2 à 3 pagina's]
