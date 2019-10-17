@@ -5,7 +5,7 @@ title: Raadpleeg een expert
 Expertise binnen dramco:
 
 ## LPWAN
-- Gilles Callebat
+- Gilles Callebaut
 - Guus Leenders
 
 ## VLC & VLP
