@@ -1,23 +1,6 @@
 # Tips and Tricks
 
-<!-- MarkdownTOC -->
-
-- [Planning](#planning)
-- [Scriptie](#scriptie)
-	- [Conventies](#conventies)
-	- [Taal](#taal)
-	- [LaTex tips](#latex-tips)
-	- [Bronnen](#bronnen)
-- [Code](#code)
-- [Raadpleeg een expert](#raadpleeg-een-expert)
-	- [LPWAN](#lpwan)
-	- [VLC & VLP](#vlc--vlp)
-	- [Acoustics](#acoustics)
-	- [Machine Learning](#machine-learning)
-	- [PCB design](#pcb-design)
-	- [LaTex](#latex)
-
-<!-- /MarkdownTOC -->
+{% include toc.html html=content %}
 
 
 
