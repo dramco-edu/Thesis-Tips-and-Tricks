@@ -38,6 +38,7 @@
 	- zakelijk: een werkstuk is geen roman. Al te bloemrijk of literari taalgebruik hoor hier niet in thuis.
 	- correct: zorg dat je tekst geen taal- of spelfouten bevat. Let ook op de juist vorm en spelling van werkwoorden.
 	- zorgvuldig: wees niet te snel tevreden met je formulering. Vermijd vage en lege woorden zoals zaken, dingen, het een en ander.
+  
 https://www.taalwinkel.nl/een-wetenschappelijke-schrijfstijl/
 - Cijfers voluit: https://www.taaltelefoon.be/getallen-in-cijfers-of-letters
 
