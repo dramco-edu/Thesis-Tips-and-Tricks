@@ -1,0 +1,4 @@
+- LIMO libis: de online bibliotheek van de KU Leuven: [limo.libis.be](http://limo.libis.be/index.html)
+- Mendeley, Zotero,...
+- Raadplegen: scholar.google.com, IEEE Explore,... (https://bib.kuleuven.be/collecties-toegang-ontlenen/toegang-tot-e-bronnen/ebronnen-raadplegen/uitgeversplatformen-via-centrale-ku-leuven-login)
+- EZ-proxy is een proxy service vanuit de KU Leuven voor academische doeleinden. Het geeft toegang tot artikels, journals, boeken, ... : https://admin.kuleuven.be/icts/english-site/proxy
