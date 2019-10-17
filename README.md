@@ -1,6 +1,6 @@
 # Tips and Tricks
 
-
+{% include toc.html html=content %}
 
 
 ## Planning
