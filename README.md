@@ -1,7 +1,5 @@
 # Tips and Tricks
 
-{% include toc.html html=content %}
-
 
 ## Planning
 - Vraag tijdig feedback
