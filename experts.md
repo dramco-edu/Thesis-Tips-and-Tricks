@@ -31,6 +31,7 @@ Expertise binnen dramco:
 ## PCB design
 - Guus Leenders
 - Jarne Van Mulders
+- Daan Delabie
 
 ## LaTex
 - Gilles Callebaut
