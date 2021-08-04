@@ -4,21 +4,28 @@ title: Raadpleeg een expert
 
 Expertise binnen dramco:
 
+## Embedded design
+- Geoffrey Ottoy
+- Guus Leenders
+
 ## LPWAN
 - Gilles Callebaut
 - Guus Leenders
 
+## mmWave
+- Alex Marinšek
+
 ## VLC & VLP
-- Kevin Verniers
 - Willem Raes
+- Jorik De Bruycker
+- Daan Delabie
 
 ## Acoustics
-- Bart Thoen
 - Bert Cox
 - Chesney Buyle
+- Daan Delabie
 
 ## Machine Learning
-- Stijn Crul
 - Willem Raes
 
 ## PCB design
