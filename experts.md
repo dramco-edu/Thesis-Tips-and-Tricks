@@ -7,6 +7,7 @@ Expertise binnen dramco:
 ## Embedded design
 - Geoffrey Ottoy
 - Guus Leenders
+- Sarah Goossens
 
 ## LPWAN
 - Gilles Callebaut
