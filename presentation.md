@@ -5,3 +5,4 @@
 - include numbering on the slides
 - A figure is preferable over plain text
 - Explain what is on the axes of graphs
+- Request a dry-run (on time) to check your presentation before the defense (well on time)
