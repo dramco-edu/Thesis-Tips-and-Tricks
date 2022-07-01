@@ -7,3 +7,4 @@
 - Explain what is on the axes of graphs
 - Request a dry-run (on time) to check your presentation before the defense (well on time)
 - You can use animations IF they are functional e.g. to focus or zoom in on a specific item. 
+- Respect the given time 
